@@ -40,7 +40,7 @@ Recently learned
 <img src="https://img.shields.io/badge/rasberrypi-A22846?style=for-the-badge&logo=rasberrypi&logoColor=white">
 
 <img src="https://img.shields.io/badge/rasberrypi-A22846?style=for-the-badge&logo=rasberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/EclipseMosquitto-3C5280?style=for-the-badge&logo=EclipseMosquitto&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse Mosquitto-3C5280?style=for-the-badge&logo=Eclipse Mosquitto&logoColor=white">
 
 What I want to learn
 
