@@ -23,31 +23,32 @@ What can I do
 
 
 
-
+😳
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
+😊
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+😬
+<img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"><img src="https://img.shields.io/badge/rasberrypi-A22846?style=for-the-badge&logo=rasberrypi&logoColor=white">
 
 
 
 🤐
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-😬
-<img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
 
 
+😌
 Recently learned
-<img src="https://img.shields.io/badge/rasberrypi-A22846?style=for-the-badge&logo=rasberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse Mosquitto-3C5280?style=for-the-badge&logo=Eclipse Mosquitto&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse Mosquitto-3C5280?style=for-the-badge&logo=Eclipse Mosquitto&logoColor=white"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 
+😚
 What I want to learn
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 
-
-
+😍
+I Want to be a IoT Programmer 
 
 
 
