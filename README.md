@@ -7,7 +7,6 @@
 
 
 
-📫 How to reach me: dldusrb2002@naver.com  phone call=>010-5659-3231 
 
 :eyes:
 What can I do
@@ -52,6 +51,27 @@ I Want to be a IoT Programmer
 
 
 
+
+
+
+ 📫 How to reach me: dldusrb2002@naver.com  phone call=>010-5659-3231
+  My Blog address => https://blog.naver.com/dldusrb2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 Here are some ideas to get you started:
 
@@ -62,7 +82,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with c c++
 - 💬 Ask me about ...
- 📫 How to reach me: dldusrb2002@naver.com  phone call=>010-5659-3231
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
