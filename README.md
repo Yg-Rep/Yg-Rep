@@ -33,7 +33,16 @@ What can I do
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+
+
+
+Recently learned
 <img src="https://img.shields.io/badge/rasberrypi-A22846?style=for-the-badge&logo=rasberrypi&logoColor=white">
+
+<img src="https://img.shields.io/badge/rasberrypi-A22846?style=for-the-badge&logo=rasberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/EclipseMosquitto-3C5280?style=for-the-badge&logo=EclipseMosquitto&logoColor=white">
+
+What I want to learn
 
 
 
