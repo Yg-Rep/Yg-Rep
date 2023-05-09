@@ -3,7 +3,10 @@
 
 **Yg-Rep/Yg-Rep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔭 I’m currently working on IoT process in smhrd (2022 12.30~2023 06.13) 
+🔭 I’m currently working on IoT process in smhrd (2022 12.30~2023 06.13)
+and LAP research worker in XO (2023 05.09~) 
+
+
 
 
 
@@ -56,6 +59,14 @@ I Want to be a IoT Programmer
 
  📫 How to reach me: dldusrb2002@naver.com  phone call=>010-5659-3231
   My Blog address => https://blog.naver.com/dldusrb2002
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
