@@ -40,7 +40,7 @@ What can I do
 
 😌
 Recently learned
-<img src="https://img.shields.io/badge/Eclipse Mosquitto-3C5280?style=for-the-badge&logo=Eclipse Mosquitto&logoColor=white"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse Mosquitto-3C5280?style=for-the-badge&logo=Eclipse Mosquitto&logoColor=white"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 😚
 What I want to learn
@@ -83,6 +83,7 @@ I Want to be a IoT Programmer
 
  📫 How to reach me: dldusrb2002@naver.com  phone call=>010-5659-3231
   My Blog address => https://blog.naver.com/dldusrb2002
+  Domain address => https://YG-REP.com
   
   
   
